@@ -5,6 +5,7 @@
 <style>
     body {
       text-align: center;
+      min-width: 1200px;
     }
   </style>
 </head>
