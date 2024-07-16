@@ -24,7 +24,7 @@ o888o   o888o o888ooooood8 o888ooooood8 o888ooooood8  `Y8bood8P'             `8'
                                                                                                                                                     
         </pre>                                                                                     
 <p>Welcome to my site.</p>
-<img src="438782046_18429306070014720_1152125152413517951_n.jpg" alt="boston">
+<img src="assets for site/438782046_18429306070014720_1152125152413517951_n.jpg" alt="boston">
 <img src="San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg">
 <img src="Commercial_area_of_futian_to_east2020.jpg">
 <img src="Vatnsfell_hydropower_station_wiki.jpg">
