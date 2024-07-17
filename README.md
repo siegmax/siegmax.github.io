@@ -13,7 +13,7 @@
 	        .container {
             display: grid;
             width: 100%;
-            max-width: 1600px; /* Set a maximum width */
+            min-width: 2600px; /* Set a maximum width */
             margin: 0 auto; /* Center the container */
         }
   </style>
