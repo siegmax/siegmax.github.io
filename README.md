@@ -6,6 +6,11 @@
     body {
       text-align: center;
     }
+	        pre {
+            width: 100%; /* Adjust width as needed */
+            overflow: auto; /* Add scrollbars if content overflows */
+            white-space: pre-wrap; /* Allow text to wrap */
+        }
   </style>
 </head>
 <body>
