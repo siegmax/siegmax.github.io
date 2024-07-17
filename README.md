@@ -12,7 +12,7 @@
         }
 	        .container {
             width: 100%;
-            min-width: 1900px; /* Set a maximum width */
+            min-width: 1600px; /* Set a maximum width */
         }
   </style>
 </head>
