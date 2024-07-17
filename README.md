@@ -11,10 +11,8 @@
             white-space: pre-wrap; /* Allow text to wrap */
         }
 	        .container {
-            display: grid;
             width: 100%;
             min-width: 2600px; /* Set a maximum width */
-            margin: 0 auto; /* Center the container */
         }
   </style>
 </head>
